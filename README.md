@@ -1,6 +1,7 @@
 ## Douglas Araujo
 
 Olá, me chamo Douglas Araujo Silva, sou pernambucano e nasci em 2008.
+
 Atualmente estou cursando bacharelado em ciências da computação na UFAPE (Universidade Federal do Agreste Pernambucano).
 
 <!--
